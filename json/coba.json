@@ -1,0 +1,13 @@
+[
+  {
+    "nama": "kevin",
+    "umur": 23,
+    "npm": "13115699",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "jayadi",
+      "pembimbing2": "ahmad"
+    }
+  }
+]
